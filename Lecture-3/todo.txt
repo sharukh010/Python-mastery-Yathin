@@ -1,0 +1,15 @@
+It should support the following operations 
+1. Add a todo 
+2. Display the todo 
+3. Mark a todo as completed 
+4. update a todo 
+5. Delete a todo 
+6. exit 
+
+structure of a Todo: 
+{
+    "id":<integer>,
+    "title":<str>,
+    "description":<str>,
+    "status":<str>
+}
